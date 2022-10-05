@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siraj1munir
+- 👋 Hi, I’m Siraj Munir (An always student currently working on my PhD to find a reasonable way to contribute in computing world :blush:)
 - 👀 I’m interested in Graph Machine Learning and Knowledge Representation using Knowledge Graphs   
 - 🌱 I’m currently learning Symbolic Representations and Federated Learning
 - 💞️ I’m looking to collaborate on my intersted areas mentioned above.
